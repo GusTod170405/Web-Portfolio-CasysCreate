@@ -1,17 +1,5 @@
 section{
-  overflow-x: hidden;
-}
-@font-face {
-  font-family: vuga;
-  src: url(font/norwester.ttf);
-}
-@font-face {
-  font-family: ceki;
-  src: url(font/ceki.ttf);
-}
-@font-face {
-  font-family: super;
-  src: url(font/super.ttf);
+  overflow: hidden;
 }
 
 body {
